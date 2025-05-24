@@ -1,4 +1,4 @@
-# contextfeed.ai – GPT Visibility Optimization Platform  
+# ContextFeed.ai – GPT Visibility Optimization Platform  
 _Agentur & Plattform für GPT-Sichtbarkeit & LLM-Optimierung_
 
 ---
