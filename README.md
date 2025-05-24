@@ -49,8 +49,7 @@ This repository contains open documentation and methods related to GPT visibilit
 
 ---
 
-**🌐 Website:** [https://contextfeed.ai](https://contextfeed.ai)  
+**🌐 Website:** [https://torpid-forest-6ce.notion.site/contextfeed-ai] (https://torpid-forest-6ce.notion.site/contextfeed-ai)
 **📫 Contact:** hello@contextfeed.ai  
-**📄 License:** MIT  
-**🔗 Socials:** [LinkedIn](https://linkedin.com/company/contextfeed) • @contextfeed_ai
+**🔗 Socials:** [LinkedIn](https://www.linkedin.com/company/contextfeed-ai) • @contextfeed_ai
 
